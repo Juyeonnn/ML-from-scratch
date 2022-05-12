@@ -1,6 +1,6 @@
 ## ML-from-scratch
 
-1. [custom kerenl function for SVM ](https://github.com/Juyeonnn/ML-from-scratch/blob/main/PCA.ipynb,"깃허브")
+1. [custom kerenl function for SVM ](custom_kernel_function.ipynb,"깃허브")
   - custom rbf, poly, sigmoid function
   - built-in rbf, poly, sigmoid function
   - compare custom vs built-in
