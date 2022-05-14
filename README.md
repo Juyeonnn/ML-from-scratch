@@ -11,3 +11,9 @@
   - get explained variance array
   - draw plot (PC/Var)
 
+3. [approximation using custom back/forward function](https://github.com/Juyeonnn/ML-from-scratch/blob/main/custom_back_forward_function.ipynb) 
+  - train custom model to approximate tanh function
+  - build custom forward / backward function (not using pytorch built-in module)
+  - draw loss plot 
+  - get approximation function
+
